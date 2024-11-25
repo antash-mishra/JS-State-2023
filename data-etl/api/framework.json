@@ -1,0 +1,1941 @@
+{
+    "ids": [
+        "react",
+        "vuejs",
+        "angular",
+        "preact",
+        "svelte",
+        "alpinejs",
+        "litelement",
+        "solid",
+        "qwik",
+        "stencil",
+        "htmx"
+    ],
+    "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+    ],
+    "experience": [
+        {
+            "id": "react",
+            "name": "React",
+            "user_count": 18159.96,
+            "retention_percentage": 76.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": 52.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 61.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 71.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 80.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 80.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 79.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 81.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 84.0,
+                    "rank": 1
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 100,
+                    "rank": 1
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 99.0,
+                    "rank": 1
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": 75.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 71.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 67.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 60.00000000000001,
+                    "rank": 3
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 57.99999999999999,
+                    "rank": 3
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 48.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 47.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 42.0,
+                    "rank": 6
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": 92.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 93.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 90.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 89.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 87.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 83.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 82.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 76.0,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "id": "vuejs",
+            "name": "Vue.js",
+            "user_count": 10794.5,
+            "retention_percentage": 75.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": 10.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 21.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 31.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 46.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 48.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 51.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 46.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 50.0,
+                    "rank": 2
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": 72.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 94.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 98.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": 51.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 70.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 69.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 64.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 62.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 49.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 50.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 50.0,
+                    "rank": 4
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": 87.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 91.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 91.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 87.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 85.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 79.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 77.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 75.0,
+                    "rank": 6
+                }
+            ]
+        },
+        {
+            "id": "angular",
+            "name": "Angular",
+            "user_count": 9710.1,
+            "retention_percentage": 42.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": 19.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 28.000000000000004,
+                    "rank": 2
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 57.00000000000001,
+                    "rank": 2
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 57.00000000000001,
+                    "rank": 2
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 55.00000000000001,
+                    "rank": 2
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 53.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 48.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 45.0,
+                    "rank": 3
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": 98.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 99.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 99.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 99.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 99.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 99.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 99.0,
+                    "rank": 3
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": 50.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 36.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 24.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 23.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 20.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 16.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 20.0,
+                    "rank": 10
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 23.0,
+                    "rank": 11
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": 67.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": 66.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 41.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 37.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 41.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 44.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 42.0,
+                    "rank": 10
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 42.0,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "id": "preact",
+            "name": "Preact",
+            "user_count": 2795.13,
+            "retention_percentage": 66.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 7.000000000000001,
+                    "rank": 4
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 12.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 13.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 14.000000000000002,
+                    "rank": 5
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 12.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 13.0,
+                    "rank": 5
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 71.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 75.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 76.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 79.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 76.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 83.0,
+                    "rank": 5
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 42.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 40.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 39.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 31.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 35.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 34.0,
+                    "rank": 8
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": 83.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 77.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 78.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 73.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 74.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 66.0,
+                    "rank": 8
+                }
+            ]
+        },
+        {
+            "id": "svelte",
+            "name": "Svelte",
+            "user_count": 5376.75,
+            "retention_percentage": 86.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 7.000000000000001,
+                    "rank": 5
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 14.000000000000002,
+                    "rank": 4
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 19.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 21.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 25.0,
+                    "rank": 4
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 75.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 86.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 93.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 93.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 96.0,
+                    "rank": 4
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 66.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 66.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 68.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 69.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 68.0,
+                    "rank": 1
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": 87.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 88.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 89.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 89.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 86.0,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "id": "alpinejs",
+            "name": "Alpine.js",
+            "user_count": 1502.69,
+            "retention_percentage": 70.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 3.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 5.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 6.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 7.000000000000001,
+                    "rank": 7
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 34.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 48.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 51.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 57.99999999999999,
+                    "rank": 9
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 37.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 33.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 32.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 31.0,
+                    "rank": 9
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 82.0,
+                    "rank": 4
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 79.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 76.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 70.0,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "id": "litelement",
+            "name": "Lit",
+            "user_count": 1501.0800000000002,
+            "retention_percentage": 66.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 5.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 7.000000000000001,
+                    "rank": 6
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 6.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 7.000000000000001,
+                    "rank": 8
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 26.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 37.0,
+                    "rank": 7
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 41.0,
+                    "rank": 9
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 51.0,
+                    "rank": 10
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 39.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 40.0,
+                    "rank": 5
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 36.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 41.0,
+                    "rank": 7
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": 77.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 77.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 70.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 66.0,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "id": "solid",
+            "name": "Solid",
+            "user_count": 1714.56,
+            "retention_percentage": 86.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 2.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 6.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 8.0,
+                    "rank": 6
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 37.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 65.0,
+                    "rank": 6
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 76.0,
+                    "rank": 6
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 55.00000000000001,
+                    "rank": 2
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 65.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 56.00000000000001,
+                    "rank": 2
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": 89.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 90.0,
+                    "rank": 1
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 86.0,
+                    "rank": 2
+                }
+            ]
+        },
+        {
+            "id": "qwik",
+            "name": "Qwik",
+            "user_count": 856.84,
+            "retention_percentage": 81.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 1.0,
+                    "rank": 10
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 4.0,
+                    "rank": 10
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 48.0,
+                    "rank": 8
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 62.0,
+                    "rank": 8
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 66.0,
+                    "rank": 2
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 50.0,
+                    "rank": 5
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 84.0,
+                    "rank": 3
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 81.0,
+                    "rank": 4
+                }
+            ]
+        },
+        {
+            "id": "stencil",
+            "name": "Stencil",
+            "user_count": 854.5600000000001,
+            "retention_percentage": 49.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 4.0,
+                    "rank": 9
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 4.0,
+                    "rank": 11
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 35.0,
+                    "rank": 10
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 40.0,
+                    "rank": 11
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 32.0,
+                    "rank": 9
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 26.0,
+                    "rank": 10
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": 62.0,
+                    "rank": 9
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 49.0,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "id": "htmx",
+            "name": "HTMX",
+            "user_count": 1071.4,
+            "retention_percentage": 84.0,
+            "usage": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 5.0,
+                    "rank": 9
+                }
+            ],
+            "awareness": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 71.0,
+                    "rank": 7
+                }
+            ],
+            "interest": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 55.00000000000001,
+                    "rank": 3
+                }
+            ],
+            "satisfaction": [
+                {
+                    "year": 2016,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2017,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2018,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2019,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2020,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2021,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2022,
+                    "percentage_question": null,
+                    "rank": null
+                },
+                {
+                    "year": 2023,
+                    "percentage_question": 84.0,
+                    "rank": 3
+                }
+            ]
+        }
+    ]
+}
