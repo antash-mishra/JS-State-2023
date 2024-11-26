@@ -88,7 +88,7 @@ const Charts = props => {
           </div>
         </div>
       </div>
-      <div className="source">Data source and original rankings chart: <a href="https://data-etl.fly.dev/static/framework.json">The State of JS 2023: Front-end Frameworks</a></div>
+      <div className="source">Data source and original rankings chart: <a href="https://2023.stateofjs.com/en-US/libraries/front-end-frameworks">The State of JS 2023: Front-end Frameworks</a></div>
     </Fragment>
   )
 };
