@@ -8,7 +8,7 @@ const App = () => {
   const [data, setData]  = useState([])
 
   useEffect(() => {
-    const dataUrl = "http://data-etl.fly.dev/static/framework.json"
+    const dataUrl = "https://data-etl.fly.dev/static/framework.json"
 
     d3.json(dataUrl).then(data => {
       console.log("Data: ", data);
